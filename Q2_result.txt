@@ -1,0 +1,12 @@
+The brand names of the car are:  ['Audi']
+The colours of the car are:  ['20']
+The dictionary is: {'Audi': '20'}
+The brand names of the car are:  ['Audi', 'Benz', 'Jaguar', 'KIA', 'RR', 'MGHector']
+The colours of the car are:  ['Black']
+The dictionary is: {'Audi': 'Black'}
+The brand names of the car are:  ['Audi', 'Benz', 'Jaguar', 'MGHector', 'KIA']
+The colours of the car are:  ['Black', 'Black', 'Blue', 'Red', 'White']
+The dictionary is: {'Audi': 'Black', 'Benz': 'Black', 'Jaguar': 'Blue', 'MGHector': 'Red', 'KIA': 'White'}
+The brand names of the car are:  ['Audi', 'Benz', 'Jaguar', 'MGHEctor', 'KIA']
+The colours of the car are:  ['Black', 'Black', 'BLue', 'Red', 'White']
+The dictionary is: {'Audi': 'Black', 'Benz': 'Black', 'Jaguar': 'BLue', 'MGHEctor': 'Red', 'KIA': 'White'}
